@@ -1,0 +1,2 @@
+CREATE INDEX COFFEE_INDEX
+ON COFFEE(coffee_name);
